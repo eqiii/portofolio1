@@ -1,0 +1,38 @@
+body {
+    min-height: 3000px;
+    background-color: #0D0106;
+
+  }
+  
+  .jumbotron {
+    padding-top: 2rem;
+    background-color: #0D0106;
+    color: white;
+  }
+  
+  #projects {
+    background-color: #0D0106;
+    color: white;
+    background-image:url(pp.png) ;
+  }
+
+  #about {
+    color:white;
+    background-image: url(pp.jpg);
+    backdrop-filter: blur (100px);
+  }
+
+  .card {
+    background-color: #2E4F4F;
+    backdrop-filter: blur (6px);
+    color: white;
+
+    
+  }
+
+ #contact {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+    background-color: #2E4F4F;
+ }
